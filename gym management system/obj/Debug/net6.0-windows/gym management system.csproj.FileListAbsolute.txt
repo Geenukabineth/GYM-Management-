@@ -1,0 +1,34 @@
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\gym management system.exe
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\gym management system.deps.json
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\gym management system.runtimeconfig.json
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\gym management system.dll
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\gym management system.pdb
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.Form1.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.csproj.GenerateResource.cache
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.AssemblyInfoInputs.cache
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.AssemblyInfo.cs
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.dll
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\refint\gym management system.dll
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.pdb
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.genruntimeconfig.cache
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\ref\gym management system.dll
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.Billing.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.Equipment.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.member.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.Properties.Resources.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.supervision_coaching.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.loging.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.memberships.resources
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\gym management system.dll.config
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\New folder\gym management system\gym management system\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.csproj.AssemblyReference.cache
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym management system.csproj.CopyComplete
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.coaches_view.resources
+D:\New folder\New folder\gym management system\gym management system\obj\Debug\net6.0-windows\gym_management_system.view_Point.resources
